@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+.header{
+    background-color: rgb(241, 235, 235);
+    box-shadow: 0px 4px 4px rgba(146, 145, 145, 0.6);
+}
+.top-menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: red;
+}
+h2{
+    text-transform: uppercase;
+    color: black;
+}
+h3{
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.page{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.posts {
+    padding: 20px;
+}
+.post{
+    padding: 30px;
+    background-color: bisque;
+    box-shadow: 4px 4px 4px rgba(146, 145, 145, 0.6);
+}
+
+.sidebar{
+    padding: 20px 80px;
+}
+
+.tegs{
+    text-align: center;
+    padding: 20px;
+    background-color: beige;
+    box-shadow: 4px 4px 4px rgba(146, 145, 145, 0.6);
+}
+.links{
+    text-align: center;
+    padding: 20px;
+    background-color: bisque;
+    box-shadow: 4px 4px 4px rgba(146, 145, 145, 0.6);
+}
+ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ol li{
+    padding: 2px;
+    font-size: 18px;
+}
+ol li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.footer{
+    text-align: center;
+    background-color: rgb(247, 228, 228);
+    padding: 30px;
+    box-shadow: inset 0px 4px 4px rgba(146, 145, 145, 0.6);
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+
