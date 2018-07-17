@@ -18,9 +18,13 @@ p{
 h1 {
     color: #597f8a;
     text-transform: uppercase;
+    margin: 0;
+    padding: 20px;
 }
 h2{
     text-transform: uppercase;
+    margin: 0;
+    padding-bottom: 20px;
 }
 h3{
     margin: 0;
@@ -28,8 +32,8 @@ h3{
 }
 
 .page{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 .posts {
