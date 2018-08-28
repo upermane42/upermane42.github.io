@@ -55,6 +55,17 @@ h3{
     box-shadow: 4px 4px 4px rgba(146, 145, 145, 0.6);
 }
 
+.post img{
+    width: 100%;
+}
+
+.highlighter-rouge{
+    font-size: 14px;
+    border: 1px solid #636262;
+    padding: 9px;
+    background: #f0f0f0;
+}
+
 .sidebar{
     padding: 20px 80px;
 }
