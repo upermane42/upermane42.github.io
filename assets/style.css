@@ -34,7 +34,7 @@ h1:hover{
 h2{
     text-transform: uppercase;
     margin: 0;
-    padding-bottom: 20px;
+    padding-bottom: 0;
 }
 h3{
     margin: 0;
