@@ -24,7 +24,7 @@ h1 {
     color: #597f8a;
     text-transform: uppercase;
     margin: 0;
-    padding: 20px;
+    padding: 0;
 }
 
 h1:hover{
@@ -37,6 +37,17 @@ h2{
     padding-bottom: 0;
     color: #597f8a;
 }
+
+.header h1 {
+  color: #597f8a;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 20px;
+}
+.header h1:hover{
+  color: #2b5964;
+}
+
 h3{
     margin: 0;
     text-transform: uppercase;
