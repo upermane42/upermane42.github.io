@@ -15,7 +15,9 @@
     
     /* Small Devices, Tablets */
     @media only screen and (max-width : 768px) {
-       
+        .sidebar {
+            display: none;
+        }
     }
     
     /* Extra Small Devices, Phones */
@@ -56,7 +58,9 @@
     
     /* Small Devices, Tablets */
     @media only screen and (min-width : 768px) {
- 
+        .top-sidebar{
+            display: none;
+        }
     }
     
     /* Medium Devices, Desktops */
