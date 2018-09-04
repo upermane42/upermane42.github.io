@@ -2,6 +2,7 @@
 title: Test Admin
 layout: post
 categories: jekyll dev
+autor: Vitaliy
 ---
 
 **Сравнительные показатели**
