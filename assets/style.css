@@ -10,6 +10,9 @@ a{
 
 p{
     margin: 0;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.56;
 }
 .header{
     background-color: #e0e0e0;
@@ -36,13 +39,15 @@ h2{
     margin: 0;
     padding-bottom: 0;
     color: #597f8a;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .header h1 {
   color: #597f8a;
   text-transform: uppercase;
   margin: 0;
-  padding: 20px;
+  padding: 18px;
+  font-family: 'Open Sans', sans-serif;
 }
 .header h1:hover{
   color: #2b5964;
@@ -51,6 +56,7 @@ h2{
 h3{
     margin: 0;
     text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .page{
@@ -107,7 +113,8 @@ ol{
 
 ol li{
     padding: 2px;
-    font-size: 18px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
 }
 ol li a{
     text-decoration: none;
