@@ -10,7 +10,9 @@ layout: default
     <h2> <a href="{{ post.url|prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <p>{{ post.autor }} {{ post.date|date:"%d.%m.%Y" }}</p>
     <br>
-    {{ post.content }}
+    <img src="{{ post.preview-img }}">
+    <p>{{ post.preview }}</p>
+    <h4> <a href="{{ post.url|prepend: site.baseurl }}">Читать дальше </a> </h4>
     </div>
 </div>
 
