@@ -5,6 +5,7 @@ layout: default
     <h2>{{ page.title }}</h2>
     <p>{{ post.autor }} {{ page.date|date:"%d.%m.%Y" }}</p>
     <br>
+    <img src="{{ page.preview-img }}">
     {{ content }}
     <br>
     {% if page.comments %}
