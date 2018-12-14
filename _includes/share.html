@@ -3,11 +3,11 @@
   <a href="" title="Share on Twitter" onclick="window.open('https://twitter.com/home?status={{ page.url | absolute_url }} {% if site.social.twitter %}by @{{ site.social.twitter }}{% endif %}', 'newwindow', 'width=500, height=225'); return false;" data-turbolinks="false">
     <i class="fa fa-twitter" aria-hidden="true"></i>
   </a>
-  <a href="" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://robinovsky.ru{{ page.url | absolute_url }}', 'newwindow', 'width=500, height=500'); return false;" data-turbolinks="false">
+  <a href="" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}', 'newwindow', 'width=500, height=500'); return false;" data-turbolinks="false">
     <i class="fa fa-facebook" aria-hidden="true"></i>
   </a>
   
-  <a href="" title="vk" onclick="window.open('https://vk.com/share.php?url=https://robinovsky.ru{{ page.url | absolute_url }}', 'newwindow', 'width=550, height=400'); return false;" data-turbolinks="false">
+  <a href="" title="vk" onclick="window.open('https://vk.com/share.php?url={{ page.url | absolute_url }}', 'newwindow', 'width=550, height=400'); return false;" data-turbolinks="false">
     <i class="fa fa-vk" aria-hidden="true"></i>
   </a>
 </div>
