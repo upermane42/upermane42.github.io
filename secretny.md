@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Молчаливые текста
+description: тайные текста от пустого upermane
 ---
 
 <h3 style="text-align: center; collor: #000"> просто секретные посты для своих от <a href="https://twitter.com/upermane" target="_blank">@upermane</a></h3>

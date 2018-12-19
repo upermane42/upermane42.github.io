@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Java поток
+description: Страсть, уныние, код.
 ---
 
 {% for post in site.categories.java %}

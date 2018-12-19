@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Жизненный поток
+description: Работа, жизнь, алкоголь.
 ---
 
 {% for post in site.categories.live %}
