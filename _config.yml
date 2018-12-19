@@ -16,7 +16,7 @@
 title: robinovsky
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Сайт от молодого андроид разработчиков, здесь я будут собраны материалы, которые я не нашёл или были написаны не правильно или устарели.
+  Сайт от молодого андроид разработчиков, здесь я буду писать материалы, которые я не нашёл или были написаны не правильно или устарели.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robinovsky.ru" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: upermane
