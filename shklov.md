@@ -1,12 +1,12 @@
 ---
-layout: default
-title: Молчаливые текста
+layout: shklov
+title: shklov town
 description: тайные текста от пустого upermane
 ---
 
-<h3 style="text-align: center; collor: #000"> просто секретные посты для своих от <a href="https://twitter.com/upermane" target="_blank">@upermane</a></h3>
+<h3 style="text-align: center; collor: #000">уютный, свободный, не твой</h3>
 
-{% for post in site.categories.secretny %}
+{% for post in site.categories.shklov %}
 
 
 <div class="posts">
