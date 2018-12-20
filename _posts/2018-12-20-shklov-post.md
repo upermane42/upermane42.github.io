@@ -1,6 +1,6 @@
 ---
 title: Просто тестовый пост для секретной shklov версии сайта
-layout: post
+layout: postshklov
 category: shklov
 comments: false
 # other options
