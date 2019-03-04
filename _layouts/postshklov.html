@@ -3,8 +3,9 @@ layout: shklov
 ---
 <div class="post">
     <h2>{{ page.title }}</h2>
-    <p>{{ post.autor }} {{ page.date|date:"%d.%m.%Y" }}</p>
+    <p>by {{ page.autor }} {{ page.date|date:"%d.%m.%Y" }}</p>
     <br>
+    {{ post.autor }}
     <img src="{{ page.preview-img }}">
     {{ content }}
     {% include share.html %}

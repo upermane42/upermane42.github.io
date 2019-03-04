@@ -3,6 +3,7 @@ title: Просто тестовый пост для секретной shklov �
 layout: postshklov
 category: shklov
 comments: false
+autor: <a href="https://twitter.com/upermane" target="_blank">@upermane</a>
 # other options
 ---
 

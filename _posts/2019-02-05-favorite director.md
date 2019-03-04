@@ -1,8 +1,9 @@
 ---
 title: Кто твой любимый режиссер?
-layout: post
+layout: postshklov
 category: shklov
 comments: false
+autor: <a href="https://twitter.com/upermane" target="_blank">@upermane</a>
 preview-img: "/assets/img/shklov/post two/popcorn.jpg"
 preview: Так получилось, что я, да и в общем как все посмотрел много фильмов и сериалов. И был один вопрос на который я ответа дать не мог, а кто твой любимый режиссер? Но ответа я дать не мог.
 # other options
