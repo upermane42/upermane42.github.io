@@ -123,6 +123,10 @@ ol li a{
 ol li a:hover{
     color: #597f8a;
 }
+ul li{
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
 
 .footer{
     text-align: center;
