@@ -2,10 +2,10 @@
 title: WOT Statistics 2 года
 layout: post
 category: jekyll live
-autor: Vitaliy
-comments: false
+autor: <a href="https://twitter.com/vitalijrobin" target="_blank">@vitalijrobin</a>
+preview: Ребята, 23.07.2017 была опубликовано первое приложение "WOT Statistics".
+comments: true
 ---
-Ребята, 23.07.2017 была опубликовано первое приложение "WOT Statistics".
 Подведем не большие итоги:
 + Было выпущено 5 приложений по статистики для игр от компании WG.
 + Суммарно более 100 000 скачиваний.
